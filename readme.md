@@ -89,7 +89,7 @@ Once the server is running, you can interact with the API using tools like [Post
 └── README.md                  # Project documentation
 ```
 
-## Unit Testing
+##£ Unit Testing
 
 Unit tests are included to ensure the reliability of the API. The tests are written using a testing framework like [Jest](https://jestjs.io/) or [Mocha](https://mochajs.org/).
 
